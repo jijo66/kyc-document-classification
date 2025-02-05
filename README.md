@@ -62,15 +62,4 @@ Future research may focus on optimizing model performance further, expanding the
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-Special thanks to all contributors and resources that made this project possible.
-
 ---
-
-Feel free to modify any sections as needed or add any additional information that you think would be relevant! This README provides a comprehensive overview that should help users understand your project and how to use it effectively.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48171646/42d854df-0a0e-44fe-b146-186ed360f79a/Image_Class_Model.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48171646/18a98fc4-b36b-43e6-b48b-5514698ce8fc/Image_Class_Model.ipynb
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48171646/16b42a0d-0e3d-45f7-bf9d-387fa4282725/app.py
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48171646/e66426a6-b89d-4921-ae92-5d1613dc4afd/Multi-image-classifier_report_george_kinuthia.docx
